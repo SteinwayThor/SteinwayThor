@@ -6,7 +6,7 @@ On my profile, you can find some of my featured projects, including:
 
 --> Poker Tracker: A work in progress Heads Up Display with important statistics for use on America's Cardroom
 
---> Flappy Bird: An arcade with a selection of games, including Flappy Bird and an AI built on an evolutionary neural network
+--> Flappy Bird: An arcade with a selection of games, including Flappy Bird and an AI built on an evolutionary neural network (private for university policy, please reach out for more information)
 
 I love learning about AI and am always looking for more opportunities to put my software skills to use!
 
