@@ -6,7 +6,13 @@ On my profile, you can find some of my featured projects, including:
 
 --> Poker Tracker: A work in progress Heads Up Display with important statistics for use on America's Cardroom
 
---> Flappy Bird: An arcade with a selection of games, including Flappy Bird and an AI built on an evolutionary neural network (private for university policy, please reach out for more information)
+Additionally, please reach out to view some private projects, including:
+
+--> Flappy Bird: An arcade with a selection of games, including Flappy Bird and an AI built on an evolutionary neural network
+
+--> Adversarial Search: Implementations for minimax, alpha-beta, and alpha-beta with a cutoff for adversarial search problems along with a basic heuristic for TicTacToe for varied board sizes
+
+--> HMM: Implementations for a Hidden Markov Model given a transition and sensor model, an HMM representation for determining the location of a finger on a touchscreen given noisy data, and a non-Markov representation to better capture the behavior of a finger.
 
 I love learning about AI and am always looking for more opportunities to put my software skills to use!
 
